@@ -1,0 +1,11 @@
+# Gradle
+.gradle/
+build/
+*out*
+
+# IDEA
+.idea/
+*.iml
+
+# Allow gradle wrapper
+!*gradle-wrapper.jar

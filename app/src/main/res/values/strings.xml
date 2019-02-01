@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XT Clock Android</string>
+    <string name="switch_text">Obfuscate Letters</string>
+    <string name="obfuscate_on">Letter Obfuscation Enabled</string>
+    <string name="obfuscate_off">Letter Obfuscation Disabled</string>
+</resources>
